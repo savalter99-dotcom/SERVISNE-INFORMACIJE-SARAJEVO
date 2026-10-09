@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="bs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Servisne informacije Sarajevo</title>
+  <meta name="description" content="Najave prekida i radova u Sarajevu na jednom mjestu — pretraga po naselju i ulici.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💧</text></svg>">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="zaglavlje">
+    <div class="sadrzaj">
+      <h1>Servisne informacije Sarajevo</h1>
+      <p class="podnaslov">Najave prekida i radova na jednom mjestu. Trenutno: voda (ViK Sarajevo).</p>
+    </div>
+  </header>
+
+  <main class="sadrzaj">
+    <p id="primjer-upozorenje" class="upozorenje" hidden>
+      <strong>PRIMJER:</strong> zvanični izvor nije bio dostupan pri zadnjem osvježavanju, pa su
+      prikazani izmišljeni primjeri koji služe samo za prikaz stranice. To <strong>nisu</strong> stvarne najave.
+    </p>
+    <p id="izvori-greska" class="greska" hidden></p>
+
+    <section class="kontrole" aria-label="Pretraga i filteri">
+      <label for="pretraga" class="labela">Ulica ili naselje</label>
+      <input id="pretraga" type="search" placeholder="npr. Dobrinja, Zagrebačka, Kosevo…" autocomplete="off">
+      <div class="filteri" role="group" aria-label="Period">
+        <button type="button" data-period="sve" aria-pressed="true">Sve</button>
+        <button type="button" data-period="danas" aria-pressed="false">Danas</button>
+        <button type="button" data-period="sutra" aria-pressed="false">Sutra</button>
+        <button type="button" data-period="sedmica" aria-pressed="false">Ova sedmica</button>
+      </div>
+      <div class="filteri" role="group" aria-label="Vrsta">
+        <button type="button" data-vrsta="sve" aria-pressed="true">Sve vrste</button>
+        <button type="button" data-vrsta="planirani radovi" aria-pressed="false">Planirani radovi</button>
+        <button type="button" data-vrsta="kvar" aria-pressed="false">Kvar</button>
+        <button type="button" data-vrsta="redukcija" aria-pressed="false">Redukcija</button>
+      </div>
+      <p id="broj" class="broj" aria-live="polite"></p>
+    </section>
+
+    <section id="najave" class="najave" aria-label="Najave"></section>
+    <p id="prazno" class="prazno" hidden>Nema najava za odabranu pretragu i filtere.</p>
+  </main>
+
+  <footer class="podnozje">
+    <div class="sadrzaj">
+      <p>Zadnje osvježavanje: <strong id="osvjezeno">—</strong></p>
+      <p>Izvori:</p>
+      <ul id="izvori"></ul>
+      <p class="napomena">Ova stranica samo prikuplja javno objavljene najave i može kasniti ili pogrešno
+        prepoznati ulice i termine. <strong>Mjerodavni su isključivo zvanični izvori</strong> — uvijek
+        provjerite originalnu objavu.</p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,228 @@
+{
+ "osvjezeno": "2026-10-09T18:43",
+ "sadrzi_primjere": true,
+ "izvori": [
+  {
+   "id": "vik",
+   "naziv": "ViK Sarajevo",
+   "url": "https://www.viksa.ba/objave/servisne_informacije",
+   "usluga": "voda",
+   "status": "nedostupno",
+   "poruka": "https://www.viksa.ba/objave/servisne_informacije: proxy/mrežna politika odbija vezu (Tunnel connection failed: 403 Forbidden)"
+  }
+ ],
+ "ulice_naselja": {
+  "Trg solidarnosti": [
+   "Dobrinja"
+  ],
+  "Branilaca Dobrinje": [
+   "Dobrinja"
+  ],
+  "Omladinskih radnih brigada": [
+   "Dobrinja"
+  ],
+  "Zagrebačka": [
+   "Grbavica"
+  ],
+  "Grbavička": [
+   "Grbavica"
+  ],
+  "Kranjčevićeva": [
+   "Marijin Dvor"
+  ],
+  "Azize Šaćirbegović": [
+   "Hrasno"
+  ],
+  "Trg heroja": [
+   "Hrasno"
+  ],
+  "Bolnička": [
+   "Koševo"
+  ],
+  "Bardakčije": [
+   "Koševo"
+  ],
+  "Patriotske lige": [
+   "Koševo",
+   "Mejtaš"
+  ],
+  "Bistrik": [
+   "Bistrik"
+  ],
+  "Vratnik Mejdan": [
+   "Vratnik"
+  ],
+  "Mustaj-paše Babića": [
+   "Vratnik"
+  ],
+  "Saburina": [
+   "Kovači"
+  ],
+  "Sedrenik": [
+   "Sedrenik"
+  ],
+  "Geteova": [
+   "Alipašino Polje"
+  ],
+  "Trg ZAVNOBiH-a": [
+   "Alipašino Polje"
+  ],
+  "Butmirska cesta": [
+   "Butmir",
+   "Ilidža"
+  ],
+  "Hrasnička cesta": [
+   "Hrasnica"
+  ],
+  "Zmaja od Bosne": [
+   "Grbavica"
+  ]
+ },
+ "najave": [
+  {
+   "id": "464782f304eee360",
+   "izvor": "PRIMJER — ViK Sarajevo",
+   "usluga": "voda",
+   "naslov": "PRIMJER: Radovi na vodovodnoj mreži — Ilidža",
+   "tekst": "PRIMJER (izmišljen tekst, nije stvarna najava). Zbog planiranih radova na rekonstrukciji vodovodne mreže, dana 12.10.2026 od 08:00 do 13:00 sati bez vode će biti potrošači u naselju Sokolović Kolonija i u ulici Butmirska cesta.",
+   "link": "https://www.viksa.ba/objave/servisne_informacije",
+   "objavljeno": "2026-10-09T10:00",
+   "prekid_od": "2026-10-12T08:00",
+   "prekid_do": "2026-10-12T13:00",
+   "vrsta": "planirani radovi",
+   "opcine": [
+    "Ilidža"
+   ],
+   "naselja": [
+    "Sokolović Kolonija",
+    "Butmir",
+    "Ilidža"
+   ],
+   "ulice": [
+    "Butmirska cesta"
+   ],
+   "cijelo_naselje": false,
+   "primjer": true,
+   "prikupljeno": "2026-10-09T18:43:47"
+  },
+  {
+   "id": "3895fd89db524af0",
+   "izvor": "PRIMJER — ViK Sarajevo",
+   "usluga": "voda",
+   "naslov": "PRIMJER: Planirani radovi — Koševo",
+   "tekst": "PRIMJER (izmišljen tekst, nije stvarna najava). Obavještavamo potrošače da će zbog planiranih radova na priključenju novog cjevovoda, sutra 10.10.2026 od 10:00 do 16:00 sati bez vode biti potrošači u ulicama Bolnička i Bardakčije.",
+   "link": "https://www.viksa.ba/objave/servisne_informacije",
+   "objavljeno": "2026-10-09T13:20",
+   "prekid_od": "2026-10-10T10:00",
+   "prekid_do": "2026-10-10T16:00",
+   "vrsta": "planirani radovi",
+   "opcine": [
+    "Centar"
+   ],
+   "naselja": [
+    "Koševo"
+   ],
+   "ulice": [
+    "Bolnička",
+    "Bardakčije"
+   ],
+   "cijelo_naselje": false,
+   "primjer": true,
+   "prikupljeno": "2026-10-09T18:43:47"
+  },
+  {
+   "id": "bec1b4ac096a7451",
+   "izvor": "PRIMJER — ViK Sarajevo",
+   "usluga": "voda",
+   "naslov": "PRIMJER: Redukcije u vodosnabdijevanju — Hrasno Brdo i Vratnik",
+   "tekst": "PRIMJER (izmišljen tekst, nije stvarna najava). Zbog smanjene izdašnosti izvorišta, u naseljima Hrasno Brdo i Vratnik provodit će se noćna redukcija od 22:00 do 05:00 sati, počevši od 09.10.2026.",
+   "link": "https://www.viksa.ba/objave/servisne_informacije",
+   "objavljeno": "2026-10-09T18:05",
+   "prekid_od": "2026-10-09T22:00",
+   "prekid_do": "2026-10-10T05:00",
+   "vrsta": "redukcija",
+   "opcine": [
+    "Stari Grad",
+    "Novo Sarajevo"
+   ],
+   "naselja": [
+    "Hrasno Brdo",
+    "Vratnik"
+   ],
+   "ulice": [],
+   "cijelo_naselje": true,
+   "primjer": true,
+   "prikupljeno": "2026-10-09T18:43:47"
+  },
+  {
+   "id": "08e40fc0ed476c61",
+   "izvor": "PRIMJER — ViK Sarajevo",
+   "usluga": "voda",
+   "naslov": "PRIMJER: Prekid u vodosnabdijevanju — Dobrinja",
+   "tekst": "PRIMJER (izmišljen tekst, nije stvarna najava). Zbog planiranih radova na zamjeni zatvarača na vodovodnoj mreži, dana 09.10.2026 u periodu od 09:00 do 15:00 sati bez vode će biti potrošači u naselju Dobrinja.",
+   "link": "https://www.viksa.ba/objave/servisne_informacije",
+   "objavljeno": "2026-10-09T08:41",
+   "prekid_od": "2026-10-09T09:00",
+   "prekid_do": "2026-10-09T15:00",
+   "vrsta": "planirani radovi",
+   "opcine": [
+    "Novi Grad"
+   ],
+   "naselja": [
+    "Dobrinja"
+   ],
+   "ulice": [],
+   "cijelo_naselje": true,
+   "primjer": true,
+   "prikupljeno": "2026-10-09T18:43:47"
+  },
+  {
+   "id": "9615f0390386f2f1",
+   "izvor": "PRIMJER — ViK Sarajevo",
+   "usluga": "voda",
+   "naslov": "PRIMJER: Otklanjanje kvara — Grbavica",
+   "tekst": "PRIMJER (izmišljen tekst, nije stvarna najava). Zbog otklanjanja kvara na vodovodnoj mreži, danas od 08:00 do 14:00 sati bez vode će biti potrošači u ulicama: Zagrebačka, Grbavička i dio ulice Zmaja od Bosne br. 10-24.",
+   "link": "https://www.viksa.ba/objave/servisne_informacije",
+   "objavljeno": "2026-10-09T07:15",
+   "prekid_od": "2026-10-09T08:00",
+   "prekid_do": "2026-10-09T14:00",
+   "vrsta": "kvar",
+   "opcine": [
+    "Novo Sarajevo"
+   ],
+   "naselja": [
+    "Grbavica"
+   ],
+   "ulice": [
+    "Zagrebačka",
+    "Grbavička",
+    "Zmaja od Bosne"
+   ],
+   "cijelo_naselje": false,
+   "primjer": true,
+   "prikupljeno": "2026-10-09T18:43:47"
+  },
+  {
+   "id": "ce6bdf027e0ab9d9",
+   "izvor": "PRIMJER — ViK Sarajevo",
+   "usluga": "voda",
+   "naslov": "PRIMJER: Kvar na magistralnom cjevovodu — Alipašino Polje",
+   "tekst": "PRIMJER (izmišljen tekst, nije stvarna najava). Zbog kvara na cjevovodu, bez vode su potrošači na Alipašinom Polju. Ekipe ViK-a rade na otklanjanju kvara, a vodosnabdijevanje će biti uspostavljeno po završetku radova.",
+   "link": "https://www.viksa.ba/objave/servisne_informacije",
+   "objavljeno": "2026-10-08T21:30",
+   "prekid_od": "2026-10-08",
+   "prekid_do": null,
+   "vrsta": "kvar",
+   "opcine": [
+    "Novi Grad"
+   ],
+   "naselja": [
+    "Alipašino Polje"
+   ],
+   "ulice": [],
+   "cijelo_naselje": true,
+   "primjer": true,
+   "prikupljeno": "2026-10-09T18:43:47"
+  }
+ ]
+}

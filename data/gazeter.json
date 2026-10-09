@@ -1,0 +1,172 @@
+{
+  "_napomena": "Početni (ručni) popis naselja po općinama Kantona Sarajevo i nekoliko poznatih ulica s naseljem. Nije potpun — dopunjava se ručno i automatski iz najava koje navode i ulicu i naselje. Ulica može pripadati više naselja.",
+  "opcine": {
+    "Centar": [
+      "Ciglane",
+      "Koševo",
+      "Koševsko Brdo",
+      "Marijin Dvor",
+      "Mejtaš",
+      "Bjelave",
+      "Breka",
+      "Gorica",
+      "Šip",
+      "Betanija",
+      "Mrkovići",
+      "Nahorevo",
+      "Džidžikovac",
+      "Crni Vrh",
+      "Pionirska dolina"
+    ],
+    "Stari Grad": [
+      "Baščaršija",
+      "Vratnik",
+      "Bistrik",
+      "Kovači",
+      "Sedrenik",
+      "Hrid",
+      "Jarčedoli",
+      "Alifakovac",
+      "Bentbaša",
+      "Mahmutovac",
+      "Širokača",
+      "Mihrivode",
+      "Logavina"
+    ],
+    "Novo Sarajevo": [
+      "Grbavica",
+      "Hrasno",
+      "Hrasno Brdo",
+      "Velešići",
+      "Pofalići",
+      "Dolac Malta",
+      "Čengić Vila",
+      "Kovačići",
+      "Vraca",
+      "Buća Potok"
+    ],
+    "Novi Grad": [
+      "Alipašino Polje",
+      "Dobrinja",
+      "Mojmilo",
+      "Otoka",
+      "Švrakino Selo",
+      "Saraj Polje",
+      "Nedžarići",
+      "Aerodromsko naselje",
+      "Bačići",
+      "Briješće",
+      "Rajlovac",
+      "Dobroševići",
+      "Zabrđe",
+      "Rječica",
+      "Sokolje",
+      "Boljakov Potok",
+      "Bojnik",
+      "Ahatovići",
+      "Kobilja Glava",
+      "Halilovići"
+    ],
+    "Ilidža": [
+      "Ilidža",
+      "Hrasnica",
+      "Sokolović Kolonija",
+      "Butmir",
+      "Otes",
+      "Stup",
+      "Osijek",
+      "Blažuj",
+      "Rakovica",
+      "Lužani",
+      "Doglodi",
+      "Vrelo Bosne",
+      "Binježevo"
+    ],
+    "Vogošća": [
+      "Vogošća",
+      "Semizovac",
+      "Svrake",
+      "Ugorsko",
+      "Hotonj",
+      "Kremeš"
+    ],
+    "Hadžići": [
+      "Hadžići",
+      "Pazarić",
+      "Tarčin",
+      "Kasatići"
+    ],
+    "Ilijaš": [
+      "Ilijaš",
+      "Podlugovi",
+      "Malešići"
+    ],
+    "Trnovo": [
+      "Trnovo"
+    ]
+  },
+  "ulice": {
+    "Trg solidarnosti": [
+      "Dobrinja"
+    ],
+    "Branilaca Dobrinje": [
+      "Dobrinja"
+    ],
+    "Omladinskih radnih brigada": [
+      "Dobrinja"
+    ],
+    "Zagrebačka": [
+      "Grbavica"
+    ],
+    "Grbavička": [
+      "Grbavica"
+    ],
+    "Kranjčevićeva": [
+      "Marijin Dvor"
+    ],
+    "Azize Šaćirbegović": [
+      "Hrasno"
+    ],
+    "Trg heroja": [
+      "Hrasno"
+    ],
+    "Bolnička": [
+      "Koševo"
+    ],
+    "Bardakčije": [
+      "Koševo"
+    ],
+    "Patriotske lige": [
+      "Koševo",
+      "Mejtaš"
+    ],
+    "Bistrik": [
+      "Bistrik"
+    ],
+    "Vratnik Mejdan": [
+      "Vratnik"
+    ],
+    "Mustaj-paše Babića": [
+      "Vratnik"
+    ],
+    "Saburina": [
+      "Kovači"
+    ],
+    "Sedrenik": [
+      "Sedrenik"
+    ],
+    "Geteova": [
+      "Alipašino Polje"
+    ],
+    "Trg ZAVNOBiH-a": [
+      "Alipašino Polje"
+    ],
+    "Butmirska cesta": [
+      "Butmir",
+      "Ilidža"
+    ],
+    "Hrasnička cesta": [
+      "Hrasnica"
+    ]
+  }
+}

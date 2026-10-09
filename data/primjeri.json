@@ -1,0 +1,23 @@
+{
+  "_napomena": "IZMIŠLJENI PRIMJERI za prikaz stranice dok zvanični izvor nije dostupan. NISU stvarne najave. {D0} = danas, {D1} = sutra itd. (dd.mm.yyyy).",
+  "primjeri": [
+    {"objava_dana": 0, "objava_sat": "08:41",
+     "naslov": "Prekid u vodosnabdijevanju — Dobrinja",
+     "tekst": "Zbog planiranih radova na zamjeni zatvarača na vodovodnoj mreži, dana {D0} u periodu od 09:00 do 15:00 sati bez vode će biti potrošači u naselju Dobrinja."},
+    {"objava_dana": 0, "objava_sat": "07:15",
+     "naslov": "Otklanjanje kvara — Grbavica",
+     "tekst": "Zbog otklanjanja kvara na vodovodnoj mreži, danas od 08:00 do 14:00 sati bez vode će biti potrošači u ulicama: Zagrebačka, Grbavička i dio ulice Zmaja od Bosne br. 10-24."},
+    {"objava_dana": 0, "objava_sat": "13:20",
+     "naslov": "Planirani radovi — Koševo",
+     "tekst": "Obavještavamo potrošače da će zbog planiranih radova na priključenju novog cjevovoda, sutra {D1} od 10:00 do 16:00 sati bez vode biti potrošači u ulicama Bolnička i Bardakčije."},
+    {"objava_dana": 0, "objava_sat": "18:05",
+     "naslov": "Redukcije u vodosnabdijevanju — Hrasno Brdo i Vratnik",
+     "tekst": "Zbog smanjene izdašnosti izvorišta, u naseljima Hrasno Brdo i Vratnik provodit će se noćna redukcija od 22:00 do 05:00 sati, počevši od {D0}."},
+    {"objava_dana": 0, "objava_sat": "10:00",
+     "naslov": "Radovi na vodovodnoj mreži — Ilidža",
+     "tekst": "Zbog planiranih radova na rekonstrukciji vodovodne mreže, dana {D3} od 08:00 do 13:00 sati bez vode će biti potrošači u naselju Sokolović Kolonija i u ulici Butmirska cesta."},
+    {"objava_dana": -1, "objava_sat": "21:30",
+     "naslov": "Kvar na magistralnom cjevovodu — Alipašino Polje",
+     "tekst": "Zbog kvara na cjevovodu, bez vode su potrošači na Alipašinom Polju. Ekipe ViK-a rade na otklanjanju kvara, a vodosnabdijevanje će biti uspostavljeno po završetku radova."}
+  ]
+}
